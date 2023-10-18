@@ -1,0 +1,61 @@
+titulo,topicos,enlace
+Administración de datos en R,"['data-manipulation', 'data-management', 'distant-reading', 'r']",http://programminghistorian.org/es/lecciones/administracion-de-datos-en-r
+Análisis de corpus con AntConc,['distant-reading'],http://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc
+Análisis de correspondencia para la investigación histórica usando R,"['data-manipulation', 'network-analysis', 'r']",http://programminghistorian.org/es/lecciones/analisis-de-correspondencia-en-r
+Análisis de sentimientos en R con 'syuzhet',"['distant-reading', 'r']",http://programminghistorian.org/es/lecciones/analisis-de-sentimientos-r
+Análisis de redes temporal en R,"['network-analysis', 'r']",http://programminghistorian.org/es/lecciones/analisis-temporal-red
+Análisis de corpus con Voyant Tools,['distant-reading'],http://programminghistorian.org/es/lecciones/analisis-voyant-tools
+Construir un repositorio de fuentes históricas con Omeka Classic,['website'],http://programminghistorian.org/es/lecciones/construir-repositorio-de-fuentes
+Contar frecuencias de palabras con Python,['python'],http://programminghistorian.org/es/lecciones/contar-frecuencias
+Creación de corpus paralelo con LF Aligner,['distant-reading'],http://programminghistorian.org/es/lecciones/corpus-paralelo-lfaligner
+Creación de aplicaciones web interactivas con R y Shiny,"['mapping', 'website', 'r']",http://programminghistorian.org/es/lecciones/creacion-de-aplicacion-shiny
+De la hermenéutica a las redes de datos: Extracción de datos y visualización de redes en fuentes históricas,['network-analysis'],http://programminghistorian.org/es/lecciones/creando-diagramas-de-redes-desde-fuentes-historicas
+Crear una exposición con Omeka,['website'],http://programminghistorian.org/es/lecciones/crear-exposicion-con-omeka
+Crear y ver archivos HTML con Python,"['python', 'website']",http://programminghistorian.org/es/lecciones/crear-y-ver-archivos-html-con-python
+Contabilizar y minar datos de investigación con Unix,['data-manipulation'],http://programminghistorian.org/es/lecciones/datos-de-investigacion-con-unix
+Datos tabulares en R,"['data-manipulation', 'r']",http://programminghistorian.org/es/lecciones/datos-tabulares-en-r
+De HTML a lista de palabras (parte 1),['python'],http://programminghistorian.org/es/lecciones/de-html-a-lista-de-palabras-1
+De HTML a lista de palabras (parte 2),['python'],http://programminghistorian.org/es/lecciones/de-html-a-lista-de-palabras-2
+Descarga automatizada con Wget,['web-scraping'],http://programminghistorian.org/es/lecciones/descarga-automatizada-con-wget
+Descargar múltiples registros mediante cadenas de consulta,"['web-scraping', 'python']",http://programminghistorian.org/es/lecciones/descarga-multiples-registros-usando-cadenas-de-consulta
+Editar audio con Audacity,['data-manipulation'],http://programminghistorian.org/es/lecciones/editar-audio-con-audacity
+Escritura sostenible en texto plano usando Pandoc y Markdown,"['website', 'data-management']",http://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown
+Exhibición digital mínima e interactiva con CollectionBuilder,['website'],http://programminghistorian.org/es/lecciones/exhibicion-con-collection-builder
+Generadores de texto e imágenes usando gramáticas libres de contexto en Aventura.js,['creative-coding'],http://programminghistorian.org/es/lecciones/generadores-aventura
+Georreferenciar con QGIS 2.0,['mapping'],http://programminghistorian.org/es/lecciones/georreferenciar-qgis
+Creación de un entorno de desarrollo integrado para Python (Linux),"['get-ready', 'python']",http://programminghistorian.org/es/lecciones/instalacion-linux
+Creación de un entorno de desarrollo integrado para Python (Mac),"['get-ready', 'python']",http://programminghistorian.org/es/lecciones/instalacion-mac
+Creación de un entorno de desarrollo integrado para Python (Windows),"['get-ready', 'python']",http://programminghistorian.org/es/lecciones/instalacion-windows
+Instalar módulos de Python con pip,"['get-ready', 'python']",http://programminghistorian.org/es/lecciones/instalar-modulos-python-pip
+Introducción a Google Maps y Google Earth,['mapping'],http://programminghistorian.org/es/lecciones/intro-a-google-maps-y-google-earth
+Introducción a la línea de comandos en Bash,"['data-manipulation', 'get-ready']",http://programminghistorian.org/es/lecciones/introduccion-a-bash
+"Introducción a la transcodificación, edición y visualización de datos audiovisuales con FFmpeg",['data-manipulation'],http://programminghistorian.org/es/lecciones/introduccion-a-ffmpeg
+Introducción a ImagePlot y la visualización de metadatos de colecciones de imágenes,"['distant-reading', 'get-ready']",http://programminghistorian.org/es/lecciones/introduccion-a-imageplot-y-la-visualizacion-de-metadatos
+Introducción a Markdown,['data-management'],http://programminghistorian.org/es/lecciones/introduccion-a-markdown
+Introducción a la línea de comandos de Windows con PowerShell,"['data-manipulation', 'get-ready']",http://programminghistorian.org/es/lecciones/introduccion-a-powershell
+Introducción a la codificación de textos en TEI (parte 1),"['data-manipulation', 'website']",http://programminghistorian.org/es/lecciones/introduccion-a-tei-1
+Introducción a la codificación de textos en TEI (parte 2),"['data-manipulation', 'website']",http://programminghistorian.org/es/lecciones/introduccion-a-tei-2
+Introducción al web scraping usando R,['web-scraping'],http://programminghistorian.org/es/lecciones/introduccion-al-web-scraping-usando-r
+Introducción a los Datos abiertos enlazados,['lod'],http://programminghistorian.org/es/lecciones/introduccion-datos-abiertos-enlazados
+Introducción a Python e Instalación,"['python', 'get-ready']",http://programminghistorian.org/es/lecciones/introduccion-e-instalacion
+Introducción a Map Warper,['mapping'],http://programminghistorian.org/es/lecciones/introduccion-map-warper
+Limpieza de datos con OpenRefine,['data-manipulation'],http://programminghistorian.org/es/lecciones/limpieza-de-datos-con-OpenRefine
+Manipular cadenas de caracteres en Python,['python'],http://programminghistorian.org/es/lecciones/manipular-cadenas-de-caracteres-en-python
+Minería de datos en las colecciones del Internet Archive,['web-scraping'],http://programminghistorian.org/es/lecciones/mineria-de-datos-en-internet-archive
+Normalizar datos de texto con Python,['python'],http://programminghistorian.org/es/lecciones/normalizar-datos
+Palabras clave en contexto (usando n-grams) con Python,['python'],http://programminghistorian.org/es/lecciones/palabras-clave-en-contexto-n-grams
+Poniendo Omeka a funcionar,['website'],http://programminghistorian.org/es/lecciones/poniendo-omeka-a-funcionar
+Preservar tus datos de investigación,['data-management'],http://programminghistorian.org/es/lecciones/preservar-datos-de-investigacion
+Procesamiento básico de textos en R,"['distant-reading', 'r']",http://programminghistorian.org/es/lecciones/procesamiento-basico-de-textos-en-r
+Introducción a la publicación web de archivos TEI con CETEIcean,['website'],http://programminghistorian.org/es/lecciones/publicar-archivos-tei-ceteicean
+Reutilización de código y modularidad en Python,['python'],http://programminghistorian.org/es/lecciones/reutilizacion-de-codigo-y-modularidad
+Reutilizar colecciones digitales: GLAM Labs,"['data-manipulation', 'python', 'lod']",http://programminghistorian.org/es/lecciones/reutilizando-colecciones-digitales-glam-labs
+Salida de datos como archivo HTML con Python,"['python', 'website']",http://programminghistorian.org/es/lecciones/salida-de-datos-como-archivo-html
+Salida de palabras clave en contexto en un archivo HTML con Python,['python'],http://programminghistorian.org/es/lecciones/salida-palabras-clave-contexto-ngrams
+Creación de sitios estáticos con Jekyll y GitHub Pages,"['website', 'data-management']",http://programminghistorian.org/es/lecciones/sitios-estaticos-con-jekyll-y-github-pages
+Introducción a Topic Modeling y MALLET,['distant-reading'],http://programminghistorian.org/es/lecciones/topic-modeling-y-mallet
+Trabajar con archivos de texto en Python,['python'],http://programminghistorian.org/es/lecciones/trabajar-con-archivos-de-texto
+Descargar páginas web con Python,['python'],http://programminghistorian.org/es/lecciones/trabajar-con-paginas-web
+Transformación de datos con XML y XSL para su reutilización,['data-manipulation'],http://programminghistorian.org/es/lecciones/transformacion-datos-xml-xsl
+Para entender páginas web y HTML,['python'],http://programminghistorian.org/es/lecciones/ver-archivos-html
+Visualización y animación de tablas históricas con R,"['distant-reading', 'r']",http://programminghistorian.org/es/lecciones/visualizacion-y-animacion-de-tablas-historicas-con-R
