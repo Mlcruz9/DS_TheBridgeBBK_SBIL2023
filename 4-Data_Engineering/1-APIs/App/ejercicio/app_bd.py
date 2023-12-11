@@ -24,6 +24,15 @@ def get_all():
 # 1.Ruta para obtener el conteo de libros por autor ordenados de forma descendente
 
 # 2.Ruta para obtener los libros de un autor como argumento en la llamada
+# def get_all():
+#     connection = sqlite3.connect('books.db')
+#     author = request.args.get('author')
+#     cursor = connection.cursor()
+#     select_books =''' SELECT author, title FROM books
+#     WHERE author LIKE "%Ann%" '''
+#     result = cursor.execute(select_books).fetchall()
+#     connection.close()
+#     return result
     
 # 3.Ruta para obtener los libros filtrados por título, publicación y autor
 
