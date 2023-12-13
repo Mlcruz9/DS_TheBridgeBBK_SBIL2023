@@ -34,10 +34,10 @@ def predict():
 #2
 @app.route('/v2/ingest_data', methods=['POST'])
 def ingest_data():
-    
+    pass
 
 
 #3
 
-app.run()
+# app.run()
 
